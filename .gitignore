@@ -1,0 +1,9 @@
+# Snowflake Credentials & Data
+snowflake_config.json
+snowflake_credentials.json
+*.parquet
+*.docx
+*.tmp
+__pycache__/
+*.pyc
+temp_snowflake_upload/
