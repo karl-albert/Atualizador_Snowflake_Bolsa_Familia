@@ -2,7 +2,7 @@
 
 Repositório oficial para automação do pipeline mensal do **Bolsa Família Analytics** no **Snowflake Data Cloud**.
 
-## 🎯 Arquitetura da Solução
+## 🎯  Arquitetura da Solução
 * **Database / Schema**: `BOLSA_FAMILIA.PUBLIC`
 * **Tabela Fato**: `FATO_BOLSA_FAMILIA_REDZ`
 * **Coluna Virtual Dinâmica**: `"valor_total_pago_novo"` (aplica automaticamente reajuste de +15.04% a partir de 2026-07).
