@@ -9,7 +9,7 @@ Repositório oficial para automação do pipeline mensal do **Bolsa Família Ana
 * **Motor Local**: DuckDB In-Memory (agrega 19M de transações em 2.9s para envio atômico ao Stage).
 
 ## 🚀 Como Executar
-Basta dar duplo clique em `Subir_Mes_Snowflake.bat` ou executar via terminal:
+Basta dar duplo clique `Subir_Mes_Snowflake.bat` ou executar via terminal:
 ```bash
 python atualizador_mensal_snowflake.py
 ```
